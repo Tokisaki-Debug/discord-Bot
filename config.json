@@ -1,8 +1,8 @@
 {
-  "token": "ODExOTgxMTgwMzc5NDYzNzMy.YC6GZw.dzTFuKH8vLm-nO20afetUhrVaBg",
+  "token": "XXXXXXXXXXXXXXXXXXXXXX",
   "prefix": ".",
   "greeting": {
-    "channel": "800779974360563722",
+    "channel": "XXXXXXXXXXXXXXXXXXXX",
     "role": "ID de l'autorole"
   }
 }
